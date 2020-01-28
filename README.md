@@ -1,1 +1,3 @@
-# Movies-ETL
+# Movies-ETL Challenge
+
+This script created to extract, transfom and load movie data assumes that much of the format of data will continue to come in in various formats requiring the transform and clean-up accounted for in the creation of this code, should formatting of data ever adopt a wider standard revisions will be possible. While every effort to account for variances in formatting were taken into consideration, it is difficult to accomodate every single item needing to be converted to a standard format thus it is assumed that the greater amount of incoming data will continue to be in several of the formats accounted for.  It is also assumed that column headings and their equivalents will remain the same across Wikipedia, Kaggle and the MovieLens rating data. It is assumed that the original data files will retain their original names and be placed into the same directory every time.
